@@ -37,3 +37,5 @@ Thumbs.db
 
 # Exports
 *_export_*.txt
+activities.txt
+poetry.lock
